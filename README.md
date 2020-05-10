@@ -39,9 +39,9 @@ Congratulations, you completed your first project and wrote a Neural Network tha
 
 ## Additional Steps
 
-1. See what happens when you increase the number of trials from 1000
+1.See what happens when you increase the number of trials from 1000
 
-2. Try using the same Network but for an OR gate and NAND gate
+2.Try using the same Network but for an OR gate and NAND gate
 
-3. Try using the same Network for some custom state machine
+3.Try using the same Network for some custom state machine
 
