@@ -31,7 +31,7 @@ The variable y will be our expected outputs for the AND gate which are 0, 0, 0, 
 
 ## Final Steps
 
-Next, we will create a Neural Network (the class we just created) and run it for 1000 iterations. Finally, we print our final result! (this is done for you)
+Next, we will create a Neural Network (the class we just created) and run it for 1000 iterations. Finally, we print our final result!
 
 Your printed output should be close to the actual output of 0, 0, 0, 1, but it might not be ​exactly correct​.
 
