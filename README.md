@@ -7,8 +7,7 @@ The first step to creating some complex Artificial Intelligence programs is to f
 ## Installation
 
 First make sure you have installed Python 3 or higher.
-You will also need a text editor (ex. Sublime Text) or you can use the python shell. Download the boiler code (NeuralNetwork.py)
-
+You will also need a text editor (ex. Sublime Text) or you can use the python shell. 
 
 ## Instructions
 
@@ -19,17 +18,17 @@ In the sigmoid(x) ​function, you should return 1.0 / (1+ np.exp(-x)). Remember
 
 Our ​sigmoid_derivative ​function will be used to fix our predicted output to become more accurate. We will simply return the derivative of ​sigmoid(x)​ (x*(1.0-x))
 
-## First Steps
+## First Step
 
 We will now create our actual ​NeuralNetwork ​(class/object)
 
 First, we must initialize some data in the ​__init__(self, x, y)​ constructor of the class: our input (x), our randomized weights, the expected output (y)
 
-Time to see if our ANN will predict the correct output for an AND gate. Here’s a table that shows outputs given two inputs:
+Time to see if our ANN will predict the correct output for an AND gate
 
 The variable y will be our expected outputs for the AND gate which are 0, 0, 0, and 1. You will HAVE​ to fill these in.
 
-## Final Steps
+## Final Step
 
 Next, we will create a Neural Network (the class we just created) and run it for 1000 iterations. Finally, we print our final result!
 
