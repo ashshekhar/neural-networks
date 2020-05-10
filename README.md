@@ -19,6 +19,8 @@ In the sigmoid(x) ​function, you should return 1.0 / (1+ np.exp(-x)). Remember
 
 Our ​sigmoid_derivative ​function will be used to fix our predicted output to become more accurate. We will simply return the derivative of ​sigmoid(x)​ (x*(1.0-x))
 
+## First Steps
+
 We will now create our actual ​NeuralNetwork ​(class/object)
 
 First, we must initialize some data in the ​__init__(self, x, y)​ constructor of the class: our input (x), our randomized weights, the expected output (y)
